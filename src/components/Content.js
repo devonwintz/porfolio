@@ -129,7 +129,7 @@ const Content = () => {
               aria-valuemin="0"
               aria-valuemax="100"
             >
-              85%
+              50%
             </div>
           </div>
         </div>
